@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/GameEntry.fire",orientation:"portrait",jsList:["assets/Scripts/Mini/Framework/miniframe_with_puremvc.8a459.js"],bundleVers:{internal:"d0832",resources:"1b696",main:"e676a"}};
